@@ -1,0 +1,11 @@
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+*.pem
+
+./01-Introduction/terraform\ files/*.tfstate
+./01-Introduction/terraform\ files/*.tfstate.*
+./01-Introduction/terraform\ files/ansible.pem
+./01-Introduction/terraform\ files/.terraform/*
+./01-Introduction/terraform\ files/.terraform/
+./01-Introduction/terraform\ files/.terraform.*

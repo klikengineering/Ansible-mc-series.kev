@@ -1,0 +1,19 @@
+#./01-Introduction/terraform files/*.tfstate
+#./01-Introduction/terraform files/*.tfstate.*
+#./01-Introduction/terraform files/**/.terraform/*
+#./01-Introduction/terraform files/*.pem
+#C:\Users\kevog\OneDrive\Desktop\DEVOPS\klik\Ansible-mc-series\01-Introduction\terraform files\terraform.tfstate
+#C:\Users\kevog\OneDrive\Desktop\DEVOPS\klik\Ansible-mc-series\01-Introduction\terraform files\terraform.tfstate.*
+#01-Introduction\terraform files\.terraform
+#C:\Users\kevog\OneDrive\Desktop\DEVOPS\klik\Ansible-mc-series\01-Introduction\terraform files\.terraform/*
+#C:\Users\kevog\OneDrive\Desktop\DEVOPS\klik\Ansible-mc-series\01-Introduction\terraform files\ansible.pem
+
+./01-Introduction/terraform\ files/*.tfstate
+./01-Introduction/terraform\ files/*.tfstate.*
+./01-Introduction/terraform\ files/*.pem
+./01-Introduction/terraform\ files/.terraform/
+./01-Introduction/terraform\ files/.terraform/*
+./01-Introduction/terraform\ files/.terraform.*
+**/.terraform/*
+
+
