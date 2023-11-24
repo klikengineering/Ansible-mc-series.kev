@@ -13,12 +13,12 @@ resource "null_resource" "vscode-config" {
 
   provisioner "remote-exec" {
     script = "script.sh"
-    
+
   }
 
-  
 
-/*  provisioner "file" {
+
+  /*  provisioner "file" {
     source      = "./script.sh"
     destination = "/tmp/script.sh"
   }

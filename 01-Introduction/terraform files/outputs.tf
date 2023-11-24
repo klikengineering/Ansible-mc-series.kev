@@ -25,3 +25,9 @@ output "instance_privateIp" {
   description = "EC2 Instance Private IP"
   value       = aws_instance.ubuntu-hosts[*].private_ip
 }
+
+/*
+output "security_group_ids" {
+ value = data.aws_security_groups.security_groups_managed_by_aws_console.ids
+}
+*/

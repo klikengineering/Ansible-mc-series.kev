@@ -107,3 +107,5 @@ In the ansible.cfg file set the defaults to:
 inventory = ./aws_ec2.yaml
 host_key_checking = False
 ```
+
+#;inventory=/etc/ansible/hosts

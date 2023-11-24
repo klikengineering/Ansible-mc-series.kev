@@ -65,7 +65,7 @@
 - You can also connect using a different user by specifying the user in the hosts file.
 ```
     [db]
-    172.31.13.31  ansible_ssh_user=sammy ansible_ssh_pass=abc123
+172.31.13.31
 ```
 - Create a file on the managed nodes to see which user its working with. 
 
